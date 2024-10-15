@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://aboutandres.vercel.app/home/eye.gif?w=1080" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/f7/b1/7c/f7b17c85d3a7e816f7bacfe6aca03bcc.gif" width="500" height="300"/>
 </div>
 
 
