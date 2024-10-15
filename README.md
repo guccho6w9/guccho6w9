@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHZ0MDJsYXNlMWp4em14NG1mcnQyYTE0OGZhM3RzbndxcW02ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3esL6MEpYoHkjl9eRp/giphy.gif)" width="100"/>
+</div>
 
 <!--
 **guccho6w9/guccho6w9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
