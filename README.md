@@ -17,6 +17,10 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://aboutandres.vercel.app/home/eye.gif?w=1080" width="600" height="300"/>
+</div>
+
 
 
 <!--
