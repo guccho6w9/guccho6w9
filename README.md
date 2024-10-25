@@ -1,6 +1,9 @@
 <div id="header" align="center">
   
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZhaHZ0MDJsYXNlMWp4em14NG1mcnQyYTE0OGZhM3RzbndxcW02ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3esL6MEpYoHkjl9eRp/giphy.gif" width="100"/>
+  <div>
+    ⭐⭐⭐
+  </div>
   <div id="badges">
   <a href="https://www.linkedin.com/in/gustavo-quiroga-772313200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
